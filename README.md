@@ -1,2 +1,2 @@
-# Proyecto27-arreglado-
-Arreglado
+# Proyecto27
+Proyecto 27
